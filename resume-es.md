@@ -40,6 +40,9 @@ Desarrollador de software con más de 14 años de experiencia en soluciones web.
 ### **Active Results LLC, Chile (2019)**  
 *Curso de Coaching (61 horas)*
 
+### **Platzi English Academy (Nov 2021 - Ene 2022)**
+*Cursos enfocados en habilidades de comunicación técnica en inglés.*
+
 ---
 
 ## CERTIFICACIONES Y CURSOS
