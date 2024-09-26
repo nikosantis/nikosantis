@@ -34,7 +34,8 @@ Software developer with over 14 years of experience in web solutions. Specialize
 ## EDUCATION
 
 ### **Universidad Santo Tomás, Santiago, Chile (2011 - 2014)**  
-*Bachelor of Graphic Design (with Distinction)*
+- *Degree*: Graphic Designer  
+- *Academic Degree*: Bachelor of Design (with Distinction)
 
 ### **Universidad Centro Médico Bautista, Paraguay (2018 - 2019)**  
 *Diploma in Coaching (122 hours)*, certified by the ICF.
