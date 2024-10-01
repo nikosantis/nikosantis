@@ -1,45 +1,15 @@
-### Hi there 👋 I'm Niko, a Software Developer 👨‍💻 working remotely from Chile 🇨🇱🏠.
+# Hi there 👋 I'm Niko Santis, Senior Full Stack Developer 👨‍💻 based in Chile 🇨🇱🏠.
 
-I like to create content and I'm sharing about the technologies that I currently use, experiences and daily life while developing, through my blog and creating community.
+With over 14 years of experience, I specialize in transforming innovative ideas into web solutions, focusing on frontend technologies like **React** and **Next.js**, and backend development with **Node.js**, **Express**, and **NestJS**. Currently, I’m working at **Globant**, contributing to large-scale applications and enhancing user experiences.
 
-I currently work at **Globant** as **Web UI Developer Senior**.
+## Key Skills & Tech Stack
+- **Languages**: JavaScript, TypeScript, Python
+- **Frontend**: React.js, Next.js, TailwindCSS
+- **Backend**: Node.js, Express, NestJS, Java Spring Boot
+- **Database**: Prisma, Drizzle, MongoDB, Neo4j
+- **Testing & DevOps**: Jest, Cypress, GitHub Actions, Docker, AWS
 
-Previously, was working at Stefanini Latam how Senior Full Stack Developer in a big project of Digital Transformation, raising MVPs and taking them to production for real clients throughout Chile and Latin America.
-
-
-I have more than 12 years working in the digital world.
-
-I currently work with:
-
-- JavaScript
-- TypeScript
-- React
-- Nextjs
-- Tailwindcss
-- E2E, Integration and Unit Testing
-- Jest
-- React Testing Library
-- Cypress
-- Express / Nest.js
-- Java Spring Boot
-- GraphQL / API Rest
-- MongoDB
-- Microservicios
-- Github Actions
-- Docker
-- Kubernetes
-- AWS
-
-I love creating new products with friendly user interfaces, with modern architectures, developing with the latest technologies and working in a team.
-
-My favorite stack is: Nextjs + Express + GraphQL + Neo4j + Vercel.
-
-I’m restless about learning more and I like facing new challenges. I’m not afraid of the new.
-
-I’m nerd. I like video games, series, reading books and comics and talking a lot.
-
-If you’re interested in my profile, let’s talk!
-
+I'm driven by a passion for **quality software**, **team collaboration**, and **continuous learning**. Let's connect and build something great together! 🚀
 
 <!--
 **nikosantis/nikosantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
